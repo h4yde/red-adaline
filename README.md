@@ -1,8 +1,8 @@
-# Red Neuronal de Adeline en matlab
+# Red Neuronal de Adaline en matlab
 
 ## Contenido
 1. Funcionamiento y archivos
-2. Sobre la RNA de Adeline
+2. Sobre la RNA de Adaline
 3. Pseudocódigo
 
 ## Funcionamiento y archivos
