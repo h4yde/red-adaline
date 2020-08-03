@@ -6,9 +6,9 @@
 3. Pseudocódigo
 
 ## Funcionamiento y archivos
-Para utilizar la RNA simplemente abre Adeline.m con matlab. Para mas detalles puedes checar el pseudocodigo.
+Para utilizar la RNA simplemente abre Adaline.m con matlab. Para mas detalles puedes checar el pseudocodigo.
 
-## Sobre la RNA de Adeline
+## Sobre la RNA de Adaline
 La RNA de Adaline fue desarrollada por Bernie Widrow en la Universidad de Stanford poco después de que Ronsenblatt desarrollara el Perceptron. Las arquitecturas de ambas redes son las mismas que la de su antecesor: utilización de neuronas con funciones de transferencia escalón.
 
 La red Adaline utiliza una única neurona de salida, mientras que Madaline puede tener varias. La diferencia fundamental con respecto al perceptrón se refiere al mecanismo de aprendizaje.
